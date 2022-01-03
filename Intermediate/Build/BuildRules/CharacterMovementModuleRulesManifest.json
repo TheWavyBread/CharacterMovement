@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\jkiku\\Documents\\Unreal Projects\\CharacterMovement\\Source\\CharacterMovement\\CharacterMovement.Build.cs",
+		"C:\\Users\\jkiku\\Documents\\Unreal Projects\\CharacterMovement\\Source\\CharacterMovement.Target.cs",
+		"C:\\Users\\jkiku\\Documents\\Unreal Projects\\CharacterMovement\\Source\\CharacterMovementEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

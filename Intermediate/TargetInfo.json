@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CharacterMovement",
+			"Path": "C:\\Users\\jkiku\\Documents\\Unreal Projects\\CharacterMovement\\Source\\CharacterMovement.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CharacterMovementEditor",
+			"Path": "C:\\Users\\jkiku\\Documents\\Unreal Projects\\CharacterMovement\\Source\\CharacterMovementEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

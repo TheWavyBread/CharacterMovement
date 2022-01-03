@@ -1,0 +1,2 @@
+C:\Users\jkiku\Documents\Unreal Projects\CharacterMovement\Intermediate\Build\Win64\UE4Editor\Development\CharacterMovement\Definitions.CharacterMovement.h
+C:\Users\jkiku\Documents\Unreal Projects\CharacterMovement\Source\CharacterMovement\CharacterMovement.h
